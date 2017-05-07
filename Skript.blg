@@ -1,0 +1,9 @@
+[0] Config.pm:343> INFO - This is Biber 2.5
+[0] Config.pm:346> INFO - Logfile is 'Skript.blg'
+[38] biber-MSWIN32:290> INFO - === 
+[60] Biber.pm:351> INFO - Reading 'Skript.bcf'
+[165] Biber.pm:776> INFO - Found 0 citekeys in bib section 0
+[172] Utils.pm:149> WARN - The file 'Skript.bcf' does not contain any citations!
+[181] bbl.pm:526> INFO - Writing 'Skript.bbl' with encoding 'UTF-8'
+[181] bbl.pm:619> INFO - Output to Skript.bbl
+[181] Biber.pm:108> INFO - WARNINGS: 1
